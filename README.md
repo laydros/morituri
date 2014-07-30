@@ -1,3 +1,5 @@
+NOTE: I forked this because I like it so much I don't want to lose track of it
+
 morituri is a CD ripper aiming for accuracy over speed for UNIX systems.
 Its features are modeled to compare with Exact Audio Copy on Windows.
 The home page is https://thomas.apestaart.org/morituri/trac/
